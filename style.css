@@ -1,0 +1,61 @@
+body{ 
+
+    height: 100vh; 
+
+    background-image: linear-gradient(to right, #cdffb2, #429f35); 
+
+} 
+
+ 
+ 
+
+.CalculadoraIms{ 
+
+    margin-top: 50%;
+    
+    margin-bottom: 50%;
+
+    display: flex; 
+
+    justify-content: center; 
+
+ 
+
+} 
+
+ 
+ 
+
+.calculadora{ 
+
+    background-color: #9fdf88; 
+
+    border: solid 5px #429f35; 
+
+    display: flex; 
+
+    flex-flow: column; 
+
+    font-weight: bold; 
+
+} 
+
+ 
+ 
+
+::placeholder{ 
+
+    font-family: Arial, Helvetica, sans-serif; 
+
+     
+
+} 
+
+ 
+ 
+
+.resultado{ 
+
+    color: #38802f; 
+
+} 
